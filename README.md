@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sighuh, I am a former demographer and epidemiologist. Now, I am an aspiring city planner focusing in geospatial analytics and environmental modeling. 
-- 👀 I’m interested in environmental modeling, data collection and analysis, and policy. 
-- 🌱 I’m currently learning javascript for planners to make web based map applications. 
+- 👀 I’m interested in environmental planning, data collection and analysis, and policy. 
 - 📫 The best way to reach me is via email at ssheth112@gmail.com.
 
 <!---
